@@ -10131,8 +10131,8 @@ h3 {
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+    padding-top: calc(6rem + 26px);
+    padding-bottom: 1rem;
   }
   .masthead .masthead-heading {
     font-size: 4rem;
